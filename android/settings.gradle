@@ -1,0 +1,3 @@
+rootProject.name = 'promonaija_4703'
+
+include ':app'
